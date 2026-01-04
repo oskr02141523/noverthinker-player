@@ -1,4 +1,4 @@
-package com.noverthinker.noverthinker_player
+package com.noverthinker.player
 
 import io.flutter.embedding.android.FlutterActivity
 
